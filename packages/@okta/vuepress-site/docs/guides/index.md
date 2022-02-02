@@ -92,7 +92,7 @@ guides:
  - oie-upgrade-sign-in-widget
  - oie-upgrade-sign-in-widget-styling
  - sign-in-to-spa-embedded-widget
-
+ - sign-in-to-spa-authjs
 ---
 
 Learn how to accomplish a task with step-by-step instructions.
